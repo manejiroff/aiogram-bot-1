@@ -3,7 +3,7 @@ from asyncio import run
 from aiogram.filters import CommandStart
 
 
-token="7308500722:AAEOZYBHXYgJZPGSftsPaOLXSwsire5wdms"
+token="7308500722:AAFMy3SPpdoHQ-3RiEnrloVki46TAGi9IG4"
 bot = Bot(token=token)
 dp=Dispatcher()
 
